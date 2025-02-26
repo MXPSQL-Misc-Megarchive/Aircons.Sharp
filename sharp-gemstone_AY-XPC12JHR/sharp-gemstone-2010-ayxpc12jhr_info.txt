@@ -1,0 +1,3 @@
+The Sharp AY-XPC12JHR is not actually from 2010.
+The oldest info I could obtain about it is from a Sharp catalogue dating to 2008.
+I  just don't want to change the filename.
